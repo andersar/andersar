@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andersar
 - 👀 I’m interested in OpenStreetMap and everything DIY 
 - 🌱 I’m currently learning Maperitive 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email 
 
 <!---
